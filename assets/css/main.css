@@ -537,7 +537,7 @@ section,
   bottom: 0;
   background: url("../img/bg/main-background.jpg") no-repeat center center;
   background-size: cover;
-  opacity: 0.08;
+  opacity: 0.5;
   z-index: 1;
 }
 
